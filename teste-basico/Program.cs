@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 
 
+using System;
+using System.Collections.Generic;
+
 class Program
 {
     static void Main()
@@ -12,9 +15,11 @@ class Program
         for (int i = 0; i < quantidade; i++)
         {
             int valor = int.Parse(Console.ReadLine());
-            // TODO: Adicione o valor à lista somente se for maior que zero
-            
-
+            // Adiciona à lista somente se o valor for maior que zero
+            if (valor > 0)
+            {
+                despesas.Add(valor);
+            }
         }
 
         if (despesas.Count == 0)
@@ -23,9 +28,11 @@ class Program
         }
         else
         {
-            // TODO: Imprima cada valor da lista de despesas válidas
-            
-
+            // Imprime cada valor da lista de despesas válidas
+            foreach (int despesa in despesas)
+            {
+                Console.WriteLine(despesa);
+            }
         }
     }
 }
