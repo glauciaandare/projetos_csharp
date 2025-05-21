@@ -1,0 +1,15 @@
+D:\projetos\projetos_csharp\teste-basico-02\bin\Debug\net9.0\teste-basico-02.exe
+D:\projetos\projetos_csharp\teste-basico-02\bin\Debug\net9.0\teste-basico-02.deps.json
+D:\projetos\projetos_csharp\teste-basico-02\bin\Debug\net9.0\teste-basico-02.runtimeconfig.json
+D:\projetos\projetos_csharp\teste-basico-02\bin\Debug\net9.0\teste-basico-02.dll
+D:\projetos\projetos_csharp\teste-basico-02\bin\Debug\net9.0\teste-basico-02.pdb
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.AssemblyInfoInputs.cache
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.AssemblyInfo.cs
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.csproj.CoreCompileInputs.cache
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.sourcelink.json
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.dll
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\refint\teste-basico-02.dll
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.pdb
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\teste-basico-02.genruntimeconfig.cache
+D:\projetos\projetos_csharp\teste-basico-02\obj\Debug\net9.0\ref\teste-basico-02.dll

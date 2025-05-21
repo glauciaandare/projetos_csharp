@@ -1,0 +1,15 @@
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\bin\Debug\net9.0\02-identificador-transaçoes-suspeitas.exe
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\bin\Debug\net9.0\02-identificador-transaçoes-suspeitas.deps.json
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\bin\Debug\net9.0\02-identificador-transaçoes-suspeitas.runtimeconfig.json
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\bin\Debug\net9.0\02-identificador-transaçoes-suspeitas.dll
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\bin\Debug\net9.0\02-identificador-transaçoes-suspeitas.pdb
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.AssemblyInfoInputs.cache
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.AssemblyInfo.cs
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.csproj.CoreCompileInputs.cache
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.sourcelink.json
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.dll
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\refint\02-identificador-transaçoes-suspeitas.dll
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.pdb
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\02-identificador-transaçoes-suspeitas.genruntimeconfig.cache
+D:\projetos\projetos_csharp\teste-intermediario\02-identificador-transaçoes-suspeitas\obj\Debug\net9.0\ref\02-identificador-transaçoes-suspeitas.dll
